@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目对话交接"
+  short_description: "整理项目交接、续开新对话并安全归档旧任务"
+  default_prompt: "使用 $project-handoff 核对当前项目状态、生成交接内容，并说明如何在新对话中安全续接。"
